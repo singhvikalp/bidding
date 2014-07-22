@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BidSystem.iml" filepath="$PROJECT_DIR$/BidSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bidsys.iml" filepath="$PROJECT_DIR$/bidsys.iml" />
     </modules>
   </component>
 </project>
